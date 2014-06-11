@@ -1,4 +1,4 @@
 images
 ======
 
-images used with Snooze
+images used with Snooze. See msimonin's github for further information.
